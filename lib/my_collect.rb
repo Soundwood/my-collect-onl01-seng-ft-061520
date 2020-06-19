@@ -7,8 +7,3 @@ def my_collect(array)
   end
   return collection
 end
-
-
-puts my_collect(["Tim Jones", "Tom Smith", "Jim Campagno"]) { |name| }
-
-array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
