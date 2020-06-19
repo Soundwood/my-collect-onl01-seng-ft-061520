@@ -12,3 +12,5 @@ end
 my_collect(["Tim Jones", "Tom Smith", "Jim Campagno"]) { |name| }
 
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+
+puts collection
